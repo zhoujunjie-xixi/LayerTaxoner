@@ -1,0 +1,12 @@
+Haemophilus_influenzae	0
+Streptococcus_pneumoniae	1
+Stenotrophomonas_maltophilia	0
+Legionella_pneumophila	2
+Staphylococcus_aureus	2
+Pseudomonas_aeruginosa	0
+Klebsiella_pneumoniae	1
+Acinetobacter_baumannii	43
+Mycobacterium_tuberculosis	0
+Streptococcus_pyogenes	1
+Mycoplasma_pneumoniae	0
+Chlamydia_pneumoniae	0
